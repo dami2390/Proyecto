@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1648319850314,
+        "title": "Correa",
+        "price": 3500,
+        "description":"Correa para perros",
+        "code": "XP-1",
+        "image": "https://dami2390.github.io/mascotasfelices/img/accesorio3.png",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "timestamp": 1648319850314,
+        "title": "Pelota",
+        "price": 800,
+        "description":"Pelota de goma, es un juguete para perros",
+        "code": "XP-2",
+        "image": "https://dami2390.github.io/mascotasfelices/img/accesorio6.png",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "timestamp": 1648319850314,
+        "title": "Gimnasio Gato",
+        "price": 20000,
+        "description":"Gimnasio para que jueguen los gatos",
+        "code": "XP-3",
+        "image": "https://dami2390.github.io/mascotasfelices/img/accesorio5.png",
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "timestamp": 1648319850314,
+        "title": "Plumas",
+        "price": 2000,
+        "description":"Juguete de plumas para gatos",
+        "code": "XP-4",
+        "image": "https://dami2390.github.io/mascotasfelices/img/accesorio2.png",
+        "stock": 10
+    }
+]
